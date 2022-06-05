@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @velocityshy
+- 👀 I’m interested in coding 
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on nothing at the moment until I know at least the basics
